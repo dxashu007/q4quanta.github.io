@@ -1,10 +1,10 @@
 
 
 <!--
-Copyright (c) 2019 by Dibakar Sigdel (https://codepen.io/Vasuji/pen/GeaNrX)
+Copyright (c) 2019 by Dibakar Sigdel (https://codepen.io/Vasuji/pen/rbrEPg)
 
 
-Fork of an original work by swaranan singha barman (https://codepen.io/swaranan/pen/ALAKaX)
+Fork of an original work by Nico (https://codepen.io/Heidene/pen/KYoBvj)
 
 
 
